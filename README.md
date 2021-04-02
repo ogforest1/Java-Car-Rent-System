@@ -1,5 +1,5 @@
 # Projects
-Projects made in my free time
+
 Java Car Rent System using Eclipse and WindowBuilder.
 
 Use "admin" for user and password
